@@ -1,0 +1,18 @@
+<?xml version="1.0" 
+    encoding="UTF-8"   
+    standalone="no" ?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<daten>
+    <person>
+        <name>Max Muster</name>
+        <email>max@muster.de</email>
+        <gewicht>60</gewicht>
+        <groesse>1.70</groesse>  
+        <geschlecht>m</geschlecht>
+    </person>
+</daten>
+
